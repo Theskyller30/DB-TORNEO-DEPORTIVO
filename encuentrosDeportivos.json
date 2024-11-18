@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "663a183503b3201d8a824615"
+  },
+  "fase": "Grupos",
+  "grupo": "A",
+  "fecha": {
+    "$date": "2024-06-15T18:00:00.000Z"
+  },
+  "sede": "Ciudad de México",
+  "equipo1": {
+    "nombre": "Equipo FC",
+    "pais": "Estados Unidos"
+  },
+  "equipo2": {
+    "nombre": "Robotics United",
+    "pais": "Japón"
+  },
+  "arbitros": [
+    {
+      "nombre": "Michael Brown",
+      "tipo": "Central"
+    },
+    {
+      "nombre": "Sarah Lee",
+      "tipo": "Asistente"
+    },
+    {
+      "nombre": "David Kim",
+      "tipo": "Asistente"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a217e03b3201d8a824628"
+  },
+  "fase": "Grupos",
+  "grupo": "C",
+  "fecha": {
+    "$date": "2024-06-20T16:00:00.000Z"
+  },
+  "sede": "Madrid",
+  "equipo1": {
+    "nombre": "Real Madrid",
+    "pais": "España"
+  },
+  "equipo2": {
+    "nombre": "Inter de Milán",
+    "pais": "Italia"
+  },
+  "arbitros": [
+    {
+      "nombre": "Daniele Orsato",
+      "tipo": "Central"
+    },
+    {
+      "nombre": "Stephanie Frappart",
+      "tipo": "Asistente"
+    },
+    {
+      "nombre": "Danny Makkelie",
+      "tipo": "Asistente"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a217e03b3201d8a824629"
+  },
+  "fase": "Grupos",
+  "grupo": "D",
+  "fecha": {
+    "$date": "2024-06-22T20:00:00.000Z"
+  },
+  "sede": "Munich",
+  "equipo1": {
+    "nombre": "Bayern Munich",
+    "pais": "Alemania"
+  },
+  "equipo2": {
+    "nombre": "Manchester City",
+    "pais": "Inglaterra"
+  },
+  "arbitros": [
+    {
+      "nombre": "Fernando Rapallini",
+      "tipo": "Central"
+    },
+    {
+      "nombre": "Juan Soto",
+      "tipo": "Asistente"
+    },
+    {
+      "nombre": "Pedro Gómez",
+      "tipo": "Asistente"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a217e03b3201d8a82462a"
+  },
+  "fase": "Grupos",
+  "grupo": "D",
+  "fecha": {
+    "$date": "2024-06-25T18:00:00.000Z"
+  },
+  "sede": "Londres",
+  "equipo1": {
+    "nombre": "Chelsea",
+    "pais": "Inglaterra"
+  },
+  "equipo2": {
+    "nombre": "Paris Saint-Germain",
+    "pais": "Francia"
+  },
+  "arbitros": [
+    {
+      "nombre": "Daniele Orsato",
+      "tipo": "Central"
+    },
+    {
+      "nombre": "Stephanie Frappart",
+      "tipo": "Asistente"
+    },
+    {
+      "nombre": "Danny Makkelie",
+      "tipo": "Asistente"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a217e03b3201d8a82462b"
+  },
+  "fase": "Grupos",
+  "grupo": "C",
+  "fecha": {
+    "$date": "2024-06-27T22:00:00.000Z"
+  },
+  "sede": "Milán",
+  "equipo1": {
+    "nombre": "Inter de Milán",
+    "pais": "Italia"
+  },
+  "equipo2": {
+    "nombre": "Liverpool",
+    "pais": "Inglaterra"
+  },
+  "arbitros": [
+    {
+      "nombre": "Fernando Rapallini",
+      "tipo": "Central"
+    },
+    {
+      "nombre": "Juan Soto",
+      "tipo": "Asistente"
+    },
+    {
+      "nombre": "Pedro Gómez",
+      "tipo": "Asistente"
+    }
+  ]
+}]

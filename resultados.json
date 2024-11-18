@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "663a18bb03b3201d8a824616"
+  },
+  "encuentro": {
+    "fase": "Grupos",
+    "grupo": "A",
+    "fecha": {
+      "$date": "2024-06-15T18:00:00.000Z"
+    },
+    "equipo1": {
+      "nombre": "Equipo FC",
+      "pais": "Estados Unidos"
+    },
+    "equipo2": {
+      "nombre": "Robotics United",
+      "pais": "Japón"
+    }
+  },
+  "golesEquipo1": 2,
+  "golesEquipo2": 1
+},
+{
+  "_id": {
+    "$oid": "663a24a803b3201d8a824634"
+  },
+  "encuentro": {
+    "fase": "Grupos",
+    "grupo": "B",
+    "fecha": {
+      "$date": "2024-06-16T20:00:00.000Z"
+    },
+    "equipo1": {
+      "nombre": "Equipo Galáctico",
+      "pais": "España"
+    },
+    "equipo2": {
+      "nombre": "Astro Rockets",
+      "pais": "Brasil"
+    }
+  },
+  "golesEquipo1": 3,
+  "golesEquipo2": 2
+},
+{
+  "_id": {
+    "$oid": "663a24a803b3201d8a824635"
+  },
+  "encuentro": {
+    "fase": "Grupos",
+    "grupo": "C",
+    "fecha": {
+      "$date": "2024-06-17T16:00:00.000Z"
+    },
+    "equipo1": {
+      "nombre": "Equipo Samurai",
+      "pais": "Japón"
+    },
+    "equipo2": {
+      "nombre": "Ninja Warriors",
+      "pais": "Corea del Sur"
+    }
+  },
+  "golesEquipo1": 1,
+  "golesEquipo2": 1
+},
+{
+  "_id": {
+    "$oid": "663a24a803b3201d8a824636"
+  },
+  "encuentro": {
+    "fase": "Grupos",
+    "grupo": "D",
+    "fecha": {
+      "$date": "2024-06-18T19:00:00.000Z"
+    },
+    "equipo1": {
+      "nombre": "Equipo Azzurri",
+      "pais": "Italia"
+    },
+    "equipo2": {
+      "nombre": "Goleadores FC",
+      "pais": "Argentina"
+    }
+  },
+  "golesEquipo1": 2,
+  "golesEquipo2": 2
+},
+{
+  "_id": {
+    "$oid": "663a24a803b3201d8a824637"
+  },
+  "encuentro": {
+    "fase": "Grupos",
+    "grupo": "E",
+    "fecha": {
+      "$date": "2024-06-19T15:00:00.000Z"
+    },
+    "equipo1": {
+      "nombre": "Equipo Vikingos",
+      "pais": "Noruega"
+    },
+    "equipo2": {
+      "nombre": "Valhalla FC",
+      "pais": "Suecia"
+    }
+  },
+  "golesEquipo1": 1,
+  "golesEquipo2": 0
+}]

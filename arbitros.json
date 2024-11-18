@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663a17b903b3201d8a824614"
+  },
+  "nombre": "Michael Brown",
+  "edad": 35,
+  "tipo": "Central",
+  "licenciaFIFA": true
+},
+{
+  "_id": {
+    "$oid": "663a217303b3201d8a824624"
+  },
+  "nombre": "Daniele Orsato",
+  "edad": 47,
+  "tipo": "Central",
+  "licenciaFIFA": true
+},
+{
+  "_id": {
+    "$oid": "663a217303b3201d8a824625"
+  },
+  "nombre": "Stephanie Frappart",
+  "edad": 39,
+  "tipo": "Central",
+  "licenciaFIFA": true
+},
+{
+  "_id": {
+    "$oid": "663a217303b3201d8a824626"
+  },
+  "nombre": "Danny Makkelie",
+  "edad": 39,
+  "tipo": "Central",
+  "licenciaFIFA": true
+},
+{
+  "_id": {
+    "$oid": "663a217303b3201d8a824627"
+  },
+  "nombre": "Fernando Rapallini",
+  "edad": 44,
+  "tipo": "Central",
+  "licenciaFIFA": true
+}]

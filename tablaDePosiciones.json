@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "663a194d03b3201d8a824617"
+  },
+  "grupo": "A",
+  "tabla": [
+    {
+      "equipo": {
+        "nombre": "Equipo FC",
+        "pais": "Estados Unidos"
+      },
+      "puntos": 9,
+      "partidosJugados": 3,
+      "partidosGanados": 3,
+      "partidosEmpatados": 0,
+      "partidosPerdidos": 0,
+      "golesFavor": 7,
+      "golesContra": 2
+    },
+    {
+      "equipo": {
+        "nombre": "Robotics United",
+        "pais": "Japón"
+      },
+      "puntos": 6,
+      "partidosJugados": 3,
+      "partidosGanados": 2,
+      "partidosEmpatados": 0,
+      "partidosPerdidos": 1,
+      "golesFavor": 5,
+      "golesContra": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a252603b3201d8a824638"
+  },
+  "grupo": "B",
+  "tabla": [
+    {
+      "equipo": {
+        "nombre": "Equipo Galáctico",
+        "pais": "España"
+      },
+      "puntos": 7,
+      "partidosJugados": 3,
+      "partidosGanados": 2,
+      "partidosEmpatados": 1,
+      "partidosPerdidos": 0,
+      "golesFavor": 6,
+      "golesContra": 2
+    },
+    {
+      "equipo": {
+        "nombre": "Astro Rockets",
+        "pais": "Brasil"
+      },
+      "puntos": 4,
+      "partidosJugados": 3,
+      "partidosGanados": 1,
+      "partidosEmpatados": 1,
+      "partidosPerdidos": 1,
+      "golesFavor": 3,
+      "golesContra": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a252603b3201d8a824639"
+  },
+  "grupo": "C",
+  "tabla": [
+    {
+      "equipo": {
+        "nombre": "Equipo Samurai",
+        "pais": "Japón"
+      },
+      "puntos": 5,
+      "partidosJugados": 3,
+      "partidosGanados": 1,
+      "partidosEmpatados": 2,
+      "partidosPerdidos": 0,
+      "golesFavor": 4,
+      "golesContra": 2
+    },
+    {
+      "equipo": {
+        "nombre": "Ninja Warriors",
+        "pais": "Corea del Sur"
+      },
+      "puntos": 4,
+      "partidosJugados": 3,
+      "partidosGanados": 1,
+      "partidosEmpatados": 1,
+      "partidosPerdidos": 1,
+      "golesFavor": 3,
+      "golesContra": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a252603b3201d8a82463a"
+  },
+  "grupo": "D",
+  "tabla": [
+    {
+      "equipo": {
+        "nombre": "Equipo Azzurri",
+        "pais": "Italia"
+      },
+      "puntos": 5,
+      "partidosJugados": 3,
+      "partidosGanados": 1,
+      "partidosEmpatados": 2,
+      "partidosPerdidos": 0,
+      "golesFavor": 4,
+      "golesContra": 2
+    },
+    {
+      "equipo": {
+        "nombre": "Goleadores FC",
+        "pais": "Argentina"
+      },
+      "puntos": 4,
+      "partidosJugados": 3,
+      "partidosGanados": 1,
+      "partidosEmpatados": 1,
+      "partidosPerdidos": 1,
+      "golesFavor": 3,
+      "golesContra": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a252603b3201d8a82463b"
+  },
+  "grupo": "E",
+  "tabla": [
+    {
+      "equipo": {
+        "nombre": "Equipo Vikingos",
+        "pais": "Noruega"
+      },
+      "puntos": 9,
+      "partidosJugados": 3,
+      "partidosGanados": 3,
+      "partidosEmpatados": 0,
+      "partidosPerdidos": 0,
+      "golesFavor": 7,
+      "golesContra": 1
+    },
+    {
+      "equipo": {
+        "nombre": "Valhalla FC",
+        "pais": "Suecia"
+      },
+      "puntos": 6,
+      "partidosJugados": 3,
+      "partidosGanados": 2,
+      "partidosEmpatados": 0,
+      "partidosPerdidos": 1,
+      "golesFavor": 5,
+      "golesContra": 3
+    }
+  ]
+}]

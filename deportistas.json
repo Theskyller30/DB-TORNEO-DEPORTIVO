@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "663a14d403b3201d8a824610"
+  },
+  "nombre": "Mark Wilson",
+  "edad": 28,
+  "posicion": "Portero",
+  "equipo": {
+    "nombre": "Equipo FC",
+    "pais": "Estados Unidos"
+  }
+},
+{
+  "_id": {
+    "$oid": "663a214503b3201d8a824618"
+  },
+  "nombre": "Lionel Messi",
+  "edad": 35,
+  "posicion": "Delantero",
+  "equipo": {
+    "nombre": "Paris Saint-Germain",
+    "pais": "Francia"
+  }
+},
+{
+  "_id": {
+    "$oid": "663a214503b3201d8a824619"
+  },
+  "nombre": "Cristiano Ronaldo",
+  "edad": 38,
+  "posicion": "Delantero",
+  "equipo": {
+    "nombre": "Al-Nassr",
+    "pais": "Arabia Saudita"
+  }
+},
+{
+  "_id": {
+    "$oid": "663a214503b3201d8a82461a"
+  },
+  "nombre": "Virgil van Dijk",
+  "edad": 31,
+  "posicion": "Defensa",
+  "equipo": {
+    "nombre": "Liverpool",
+    "pais": "Inglaterra"
+  }
+},
+{
+  "_id": {
+    "$oid": "663a214503b3201d8a82461b"
+  },
+  "nombre": "Edouard Mendy",
+  "edad": 30,
+  "posicion": "Portero",
+  "equipo": {
+    "nombre": "Chelsea",
+    "pais": "Inglaterra"
+  }
+}]

@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "663a167003b3201d8a824612"
+  },
+  "nombre": "Equipo FC",
+  "pais": "Estados Unidos",
+  "entrenador": {
+    "nombre": "John Doe",
+    "edad": 48,
+    "licenciaFIFA": true
+  },
+  "cuerpoTecnico": [
+    {
+      "nombre": "Jane Smith",
+      "cargo": "Asistente Técnico"
+    },
+    {
+      "nombre": "Bob Johnson",
+      "cargo": "Preparador Físico"
+    }
+  ],
+  "deportistas": [
+    {
+      "nombre": "Mark Wilson",
+      "edad": 28,
+      "posicion": "Portero"
+    },
+    {
+      "nombre": "Emily Davis",
+      "edad": 23,
+      "posicion": "Defensa"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a241103b3201d8a824630"
+  },
+  "nombre": "Real Madrid",
+  "pais": "España",
+  "entrenador": {
+    "nombre": "Carlo Ancelotti",
+    "edad": 63,
+    "licenciaFIFA": true
+  },
+  "cuerpoTecnico": [
+    {
+      "nombre": "Zinedine Zidane",
+      "cargo": "Asistente Técnico"
+    },
+    {
+      "nombre": "Rafael Páez",
+      "cargo": "Preparador Físico"
+    }
+  ],
+  "deportistas": [
+    {
+      "nombre": "Sergio Ramos",
+      "edad": 35,
+      "posicion": "Defensa"
+    },
+    {
+      "nombre": "Karim Benzema",
+      "edad": 33,
+      "posicion": "Delantero"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a241103b3201d8a824631"
+  },
+  "nombre": "Bayern Munich",
+  "pais": "Alemania",
+  "entrenador": {
+    "nombre": "Thomas Tuchel",
+    "edad": 49,
+    "licenciaFIFA": true
+  },
+  "cuerpoTecnico": [
+    {
+      "nombre": "Hans-Dieter Flick",
+      "cargo": "Asistente Técnico"
+    },
+    {
+      "nombre": "Hermann Gerland",
+      "cargo": "Preparador Físico"
+    }
+  ],
+  "deportistas": [
+    {
+      "nombre": "Manuel Neuer",
+      "edad": 35,
+      "posicion": "Portero"
+    },
+    {
+      "nombre": "Robert Lewandowski",
+      "edad": 32,
+      "posicion": "Delantero"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a241103b3201d8a824632"
+  },
+  "nombre": "Manchester City",
+  "pais": "Inglaterra",
+  "entrenador": {
+    "nombre": "Pep Guardiola",
+    "edad": 52,
+    "licenciaFIFA": true
+  },
+  "cuerpoTecnico": [
+    {
+      "nombre": "Mikel Arteta",
+      "cargo": "Asistente Técnico"
+    },
+    {
+      "nombre": "Xabi Mancisidor",
+      "cargo": "Preparador Físico"
+    }
+  ],
+  "deportistas": [
+    {
+      "nombre": "Kevin De Bruyne",
+      "edad": 30,
+      "posicion": "Centrocampista"
+    },
+    {
+      "nombre": "Raheem Sterling",
+      "edad": 27,
+      "posicion": "Delantero"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663a241103b3201d8a824633"
+  },
+  "nombre": "Inter de Milán",
+  "pais": "Italia",
+  "entrenador": {
+    "nombre": "Simone Inzaghi",
+    "edad": 47,
+    "licenciaFIFA": true
+  },
+  "cuerpoTecnico": [
+    {
+      "nombre": "Javier Zanetti",
+      "cargo": "Asistente Técnico"
+    },
+    {
+      "nombre": "Antonio Pintus",
+      "cargo": "Preparador Físico"
+    }
+  ],
+  "deportistas": [
+    {
+      "nombre": "Romelu Lukaku",
+      "edad": 28,
+      "posicion": "Delantero"
+    },
+    {
+      "nombre": "Stefan de Vrij",
+      "edad": 29,
+      "posicion": "Defensa"
+    }
+  ]
+}]

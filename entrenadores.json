@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "663a171803b3201d8a824613"
+  },
+  "nombre": "John Doe",
+  "edad": 48,
+  "licenciaFIFA": true,
+  "equipo": {
+    "nombre": "Equipo FC",
+    "pais": "Estados Unidos"
+  }
+},
+{
+  "_id": {
+    "$oid": "663a216503b3201d8a824620"
+  },
+  "nombre": "Zinedine Zidane",
+  "edad": 50,
+  "licenciaFIFA": true,
+  "equipo": {
+    "nombre": "Real Madrid",
+    "pais": "España"
+  }
+},
+{
+  "_id": {
+    "$oid": "663a216503b3201d8a824621"
+  },
+  "nombre": "Jürgen Klopp",
+  "edad": 55,
+  "licenciaFIFA": true,
+  "equipo": {
+    "nombre": "Liverpool",
+    "pais": "Inglaterra"
+  }
+},
+{
+  "_id": {
+    "$oid": "663a216503b3201d8a824622"
+  },
+  "nombre": "Mauricio Pochettino",
+  "edad": 51,
+  "licenciaFIFA": true,
+  "equipo": {
+    "nombre": "Paris Saint-Germain",
+    "pais": "Francia"
+  }
+},
+{
+  "_id": {
+    "$oid": "663a216503b3201d8a824623"
+  },
+  "nombre": "Antonio Conte",
+  "edad": 53,
+  "licenciaFIFA": true,
+  "equipo": {
+    "nombre": "Tottenham Hotspur",
+    "pais": "Inglaterra"
+  }
+}]
